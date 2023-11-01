@@ -1,5 +1,14 @@
 ### Hi there 👋
+# test1
+## test2
+### test3
+**Жирный текст**
+*Наклонный текст*
+---
+~Зачёркнутый текст~
 
+https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg
+:man_technologist:
 <!--
 **WaksimZAW/WaksimZAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
